@@ -1,0 +1,19 @@
+﻿  Cliente.cpp
+  Controladora.cpp
+  FabricaArtesanal.cpp
+  FabricaLujo.cpp
+  FabricaMueble.cpp
+  FabricaRustica.cpp
+  Interfaz.cpp
+  Main.cpp
+  Muebleria.cpp
+  Generando código...
+C:\Users\Equipo\Desktop\Muebleria\Muebleria\Muebleria.cpp(43): warning C4715: 'Muebleria::crearJuegoSala': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Equipo\Desktop\Muebleria\Muebleria\Interfaz.cpp(294): warning C4715: 'Interfaz::seleccionColorSillon': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Equipo\Desktop\Muebleria\Muebleria\Interfaz.cpp(332): warning C4715: 'Interfaz::seleccionColorMesa': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Equipo\Desktop\Muebleria\Muebleria\Interfaz.cpp(256): warning C4715: 'Interfaz::seleccionColor': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Equipo\Desktop\Muebleria\Muebleria\FabricaMueble.cpp(86): warning C4715: 'FabricaMueble::agregarSillaPequena': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Equipo\Desktop\Muebleria\Muebleria\FabricaMueble.cpp(145): warning C4715: 'FabricaMueble::agregarSillonGrande': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Equipo\Desktop\Muebleria\Muebleria\FabricaMueble.cpp(173): warning C4715: 'FabricaMueble::agregarMesa': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Equipo\Desktop\Muebleria\Muebleria\FabricaMueble.cpp(114): warning C4715: 'FabricaMueble::agregarSillaPequena2': no todas las rutas de acceso de control devuelven un valor
+  Muebleria.vcxproj -> C:\Users\Equipo\Desktop\Muebleria\Debug\Muebleria.exe
